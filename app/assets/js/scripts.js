@@ -1,10 +1,10 @@
 /*!
  * fastshell
- * Fiercely quick and opinionated front-ends
+ * Fiercely quick and UPDATED front-ends
  * https://HosseinKarami.github.io/fastshell
  * @author Hossein Karami
- * @version 1.0.5
- * Copyright 2016. MIT licensed.
+ * @version 1.0.0
+ * Copyright 2019. MIT licensed.
  */
 (function ($, window, document, undefined) {
 
