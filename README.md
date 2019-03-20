@@ -10,6 +10,9 @@ The opinionated FastShell framework. Built for the modern developer. For teams a
 * Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
 * HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
 
+# Recent Changes
+* Added Gulp v4 support
+* Added Babel to transpile Gulp file from ES6
 
 ## License
 
